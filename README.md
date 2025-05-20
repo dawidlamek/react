@@ -8,9 +8,6 @@ npm run dev
 
 Struktura projektu
 
-bash
-Kopiuj
-Edytuj
 src/
 ├── components/         # Komponenty UI (MeetingList, MeetingForm, MeetingCalendar itd.)
 ├── contexts/           # Context API - AppContext
